@@ -1,0 +1,24 @@
+In retail store ,3products are there ,
+one can print details of the products ,sell it or give discount on the products, products can be restocked if the inventory reaches 0,
+one can also check for the product 
+workflow---->Retail store creates 3 products with
+1 product - 12 
+2 product - 5
+3 product - 7
+1 customer- 2,3(4)
+2 customer-1,2,3(4)
+3 customer-1(10)
+4 customer-1(5)
+at any given time the products should be available customer to buy
+
+
+when the name of instance variable is same as constructor parameter then the shadow of the parameter falls on instance variable.
+
+constructor:-
+	It is not a function.
+	The constructor is invoked by jvm itself.
+	Implicit constructor:-
+	
+	
+	
+ 
